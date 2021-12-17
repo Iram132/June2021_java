@@ -13,9 +13,9 @@ public class BasePage {
 		return randomNUm;
 	}
 
-	public static void dropDown(WebElement locator, String visibleText) {
+	/*public static void dropDown(WebElement locator, String visibleText) {
 		Select sel = new Select(locator);
 		sel.selectByVisibleText(visibleText);
 
-	}
+	}*/
 }
