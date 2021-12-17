@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 5841486988,
+  "duration": 8178603899,
   "status": "passed"
 });
 formatter.scenario({
@@ -49,29 +49,29 @@ formatter.match({
   "location": "SetColorStepDefinition.user_is_on_techfios_test_Website()"
 });
 formatter.result({
-  "duration": 600568010,
+  "duration": 828837697,
   "status": "passed"
 });
 formatter.match({
   "location": "SetColorStepDefinition.user_clicks_on_the_set_Skyblue_button()"
 });
 formatter.result({
-  "duration": 50056066,
+  "duration": 126288199,
   "status": "passed"
 });
 formatter.match({
   "location": "SetColorStepDefinition.the_background_color_will_change_to_skyblue()"
 });
 formatter.result({
-  "duration": 31371427,
+  "duration": 32803585,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1361733419,
+  "duration": 1117221946,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5456200943,
+  "duration": 5375038381,
   "status": "passed"
 });
 formatter.scenario({
@@ -107,25 +107,25 @@ formatter.match({
   "location": "SetColorStepDefinition.user_is_on_techfios_test_Website()"
 });
 formatter.result({
-  "duration": 543462066,
+  "duration": 633790951,
   "status": "passed"
 });
 formatter.match({
   "location": "SetColorStepDefinition.user_clicks_on_the_set_White_background_button()"
 });
 formatter.result({
-  "duration": 47532479,
+  "duration": 54501437,
   "status": "passed"
 });
 formatter.match({
   "location": "SetColorStepDefinition.then_the_background_color_will_change_to_white()"
 });
 formatter.result({
-  "duration": 23538513,
+  "duration": 22212747,
   "status": "passed"
 });
 formatter.after({
-  "duration": 740220618,
+  "duration": 746551189,
   "status": "passed"
 });
 });
